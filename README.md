@@ -3,9 +3,13 @@ In this project, we dive into pizza sales data, aiming to extract valuable insig
 
 ## Key Metrics:
 **Total Revenue:** We calculate the overall revenue generated from pizza sales.
+
 **Average Order Value:** This metric provides insight into the average spending per order.
+
 **Total Pizzas Sold:** We determine the total quantity of pizzas sold.
+
 **Total Orders:** The count of unique orders placed.
+
 **Average Pizzas Per Order:** Calculating the average number of pizzas ordered per transaction.
 
 ## Trend Analysis:
